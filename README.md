@@ -29,25 +29,31 @@
 
 * __T-Test result__
 
+     ![onesamplettest](https://user-images.githubusercontent.com/107717882/192644518-5f48b91e-84b8-484f-a80d-23798279aabd.png)
 
-    ![onesamplettest](https://user-images.githubusercontent.com/107717882/192640235-731cc81c-9836-410f-815f-56e74c23bbc9.png)
-
-
+     Cosidering all PSIs vs population mean of 1500 from above RScript result, p-value is 0.06 which is greater than 0.05 i.e. above significance level. 
+     We do not have sufficient evidence to reject the null hypothesis, therefore  two means are statistically similar. 
 
 * __Lot 1 T-Test__
 
-    ![lot1ttest](https://user-images.githubusercontent.com/107717882/192640336-5c0d28a0-5c75-4723-904f-c12df67780d9.png)
-
-
+    ![lot1ttest](https://user-images.githubusercontent.com/107717882/192644604-a07b375c-4a73-4ab6-b484-2626da3cb6c9.png)
+     
+     Considering PSIs for Lot 1 vs population mean 1500 from above RScript result, p-value is 1 which is greater than 0.05 i.e. above significance level.
+     We do not have sufficient evidence to reject the null hypothesis, therefore  two means are statistically similar.
+    
 * __Lot 2 T-Test__
 
-
-    ![lot2ttest](https://user-images.githubusercontent.com/107717882/192640364-0a059be0-f466-4a7e-8dde-1e1dff191023.png)
-
+     ![lot2ttest](https://user-images.githubusercontent.com/107717882/192644648-a803c0c7-fb70-4f41-b9d9-ec0194244861.png)
+     
+     Considering PSIs for Lot 2 vs population mean 1500 from above RScript result, p-value is 0.6 which is greater than 0.05 i.e. above significance level.
+     We do not have sufficient evidence to reject the null hypothesis, therefore  two means are statistically similar.
+  
 * __Lot 3 T-Test__
 
-    ![lot3ttest](https://user-images.githubusercontent.com/107717882/192640389-a4d00e93-1f53-4af1-8428-5b78c84746bb.png)
+    ![lot3ttest](https://user-images.githubusercontent.com/107717882/192644714-7827a362-800d-44be-bf35-7c1bedc70de3.png)
 
+     Considering PSIs for Lot 3 vs population mean 1500 from above RScript result, p-value is 0.04 which is lesser than 0.05 i.e. bellow significance level.
+     We can reject the null hypothesis, therefore  two means are not statistically similar.
 
 ## Study Design: MechaCar vs Competition
 
