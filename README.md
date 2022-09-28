@@ -6,12 +6,17 @@
 
 
      ![mpg_summary](https://user-images.githubusercontent.com/107717882/192640101-b211665e-a38d-4f0a-b817-74a90e5c016b.png)
-
-
+     
+     
+     Now consider Pr(>|t|) value represents the probability that each coefficient contributes a random amount of variance to the linear model. Looking at the p-value        of vehicle_length and ground_clearance which are smaller that have significant effect on mpg. 
 
 * __Slope of the linear model__
 
+     The p-value of our linear regression model is 5.35e-11 that is equal to 0.0000000000535, which is way smaller than significance level of 0.05%. Therefore, we can      state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
+     
 * __Does this linear model predict mpg of MechaCar prototypes effectively?__
+
+     Here R squared value is  0.71 which indicates that variables are significant in determining mpg of car.
 
 
 
