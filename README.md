@@ -70,8 +70,25 @@
 
 * __Metrics__
 
+     Let’s consider the metrics city or highway fuel efficiency, horse power  for MechaCar vs competition. 
+
 * __Hypothesis__
+
+     Null Hypothesis :  High horse power decreases fuel efficiency. 
 
 * __Statistical Tests__
 
+    Here we will use linear regression because  fuel efficiency , dependent variable is predicted by independent variable horse power.  Here, slope and p-value will be     main factor to determine correlation. 
+
 * __Data__
+
+     MechaCar fuel efficiency data for different cars and  horse power data  for that cars. 
+     Also, there are a few assumptions about our input data that must be met before we perform our statistical analysis
+     
+     1. The input data is numerical and continuous.
+     2. The input data should follow a linear pattern.
+     3. There is variability in the independent x variable. This means that there must be more than one observation in the x-axis and they must be different                   values.
+     4. The residual error (the distance from each data point to the line) should be normally distributed
+
+     
+
