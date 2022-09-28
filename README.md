@@ -1,5 +1,7 @@
 # MechaCar Statistical Analysis
 
+ This analysis performs multiple linear regression, collects summary statistics, runs t-tests on data sets using  __"R"__.
+     
 ## Linear Regression to Predict MPG
 
 * __Variables/coefficients provided a non-random amount of variance to the mpg values in the dataset__
